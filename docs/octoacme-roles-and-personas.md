@@ -75,7 +75,114 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Stakeholders
+
+### Role Summary
+Stakeholders provide business requirements, feedback, and review milestone progress. They have authority to sign off on major deliverables and ensure alignment with organizational goals.
+
+### Responsibilities
+- Provide business context and requirements
+- Review and approve major milestones or deliverables
+- Participate in project kickoffs, reviews, and demos
+- Raise concerns and clarify priorities from a business perspective
+
+### Typical Communication
+- Scheduled milestone reviews
+- Written feedback on deliverables
+- Participation in steering meetings
+
+### Key Interactions
+- Works closely with Product Managers to refine product direction
+- Collaborates with Project Managers to stay informed on status, risks, and escalations
+
+---
+
+## QA Lead
+
+### Role Summary
+The QA Lead defines and oversees quality standards, coordinates test execution, and ensures feedback is addressed before any major releases.
+
+### Responsibilities
+- Develop and maintain testing strategy, plans, and scripts
+- Oversee test execution and defect tracking
+- Coordinate with Developers to resolve bugs before release
+- Advocate for quality throughout the project lifecycle
+
+### Typical Communication
+- Bug reports, test summary reports
+- Participation in sprint reviews and release readiness meetings
+
+### Key Interactions
+- Collaborates with Developers to resolve defects efficiently
+- Informs Project Managers and Product Managers about release readiness and quality status
+
+---
+
+## UX Designer
+
+### Role Summary
+UX Designers are responsible for the user experience design, ensuring solutions are user-centric and accessible.
+
+### Responsibilities
+- Conduct user research and usability testing
+- Design wireframes, prototypes, and user flows
+- Refine requirements with Product Managers and Developers
+- Advocate for a seamless and inclusive user experience
+
+### Typical Communication
+- Design reviews and feedback sessions
+- Usability research reports
+
+### Key Interactions
+- Works with Product Managers to align design with business value
+- Collaborates with Developers for implementation feasibility and iteration
+
+---
+
+## Release Manager
+
+### Role Summary
+The Release Manager plans and executes deployment activities, coordinates release communications, and ensures rollback plans are established.
+
+### Responsibilities
+- Develop release plans and schedules
+- Coordinate deployment activities with cross-functional teams
+- Communicate release status to stakeholders
+- Ensure rollback and contingency plans are in place
+
+### Typical Communication
+- Release plans and notices
+- Go/no-go decision meetings
+
+### Key Interactions
+- Works with Project Managers on schedules
+- Coordinates with QA Lead and Developers for release validation
+
+---
+
+## Operations Lead
+
+### Role Summary
+The Operations Lead oversees production system health post-launch, manages incident response, and collaborates on production issues.
+
+### Responsibilities
+- Monitor production systems for performance and reliability
+- Lead incident response and coordinate with teams for resolution
+- Own operational runbooks and service documentation
+
+### Typical Communication
+- Incident reports and post-mortems
+- Operational review meetings
+
+### Key Interactions
+- Coordinates with Developers and Release Manager for post-release issues
+- Works with Stakeholders for business impact assessments
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+
+---
 
